@@ -7,6 +7,7 @@
   "license": "ISC",
   "main": "src/index.js",
   "componentMeta": {
-    "name": "组件模板"
+    "icon":"",
+    "name": "组件模板Demo"
   }
 }

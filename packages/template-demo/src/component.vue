@@ -1,7 +1,7 @@
 <template>
-  <div class="aaaaaax" absolute min-height="400px">
+  <work-container absolute min-height="400px">
     <main-content></main-content>
-  </div>
+  </work-container>
 </template>
 
 <script>
@@ -170,4 +170,3 @@
 </script>
 
 <style lang="less" scoped></style>
-./modules/index.vue

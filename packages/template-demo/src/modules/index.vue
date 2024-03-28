@@ -1,5 +1,5 @@
 <template>
-  <section class="main-content">main-content demo</section>
+  <section class="main-content">main-content</section>
 </template>
 
 <script>

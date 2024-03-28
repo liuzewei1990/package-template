@@ -1,11 +1,3 @@
-# `template`
+# `@package/template-demo`
 
 > TODO: description
-
-## Usage
-
-```
-const template = require('template');
-
-// TODO: DEMONSTRATE API
-```
