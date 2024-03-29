@@ -10,7 +10,7 @@
 
 <script>
   import { number } from "vue-types";
-  import utils from "@package/diaodu-assets/utils/index.js";
+  import * as utils from "@package/diaodu-assets/utils/index.js";
 
   export default {
     components: {},
