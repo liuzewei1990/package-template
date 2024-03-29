@@ -1,0 +1,27 @@
+<svg width="289.000427" height="30.254883" viewBox="0 0 289 30.2549" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<desc>
+			Created with Pixso.
+	</desc>
+	<defs>
+		<filter id="filter_85_11_dd" x="0.000000" y="0.000000" width="289.000427" height="30.254883" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+			<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+			<feGaussianBlur in="BackgroundImage" stdDeviation="26.6498"/>
+			<feComposite in2="SourceAlpha" operator="in" result="effect_backgroundBlur_1"/>
+			<feBlend mode="normal" in="SourceGraphic" in2="effect_backgroundBlur_1" result="shape"/>
+		</filter>
+		<linearGradient id="paint_linear_85_11_0" x1="280.156891" y1="17.589966" x2="0.000045" y2="15.010254" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#083957" stop-opacity="0.000000"/>
+			<stop offset="1.000000" stop-color="#04649E"/>
+		</linearGradient>
+		<linearGradient id="paint_linear_85_11_1" x1="293.661438" y1="30.254883" x2="206.262085" y2="24.335449" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#2487A6"/>
+			<stop offset="1.000000" stop-color="#409DBB" stop-opacity="0.000000"/>
+		</linearGradient>
+	</defs>
+	<g opacity="0.800000" filter="url(#filter_85_11_dd)">
+		<path id="矩形 234" d="M0 0.254883L289 0L289 24.7832L283 30L0 30.2549L0 0.254883Z" fill="url(#paint_linear_85_11_0)" fill-opacity="1.000000" fill-rule="evenodd"/>
+	</g>
+	<path id="矩形 234" d="M289 0.5L289 0L288.5 0.000488281L0.5 0.254395L0 0.254883L0 30.2549L0.5 30.2549L283 30L289 24.7832L289 0.5L289 0.5ZM288.5 0.500488L288.5 24.5554L282.813 29.5001L0.5 29.7544L0.5 0.754395L288.5 0.500488Z" fill="url(#paint_linear_85_11_1)" fill-opacity="1.000000" fill-rule="evenodd"/>
+	<path id="矩形" d="M288.919 26.2549L284.905 30.2549L288.919 30.2549L288.919 26.2549Z" fill="#1F667E" fill-opacity="1.000000" fill-rule="evenodd"/>
+	<path id="矩形" d="M284.905 30.2549L288.919 30.2549L288.919 26.2549L284.905 30.2549Z" stroke="#979797" stroke-opacity="0" stroke-width="0.000000"/>
+</svg>

@@ -1,0 +1,17 @@
+<svg width="306.000000" height="30.000000" viewBox="0 0 306 30" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<desc>
+			Created with Pixso.
+	</desc>
+	<defs>
+		<linearGradient id="paint_linear_31_233_0" x1="296.636688" y1="17.441650" x2="-0.000020" y2="14.883667" gradientUnits="userSpaceOnUse">
+			<stop offset="0.030534" stop-color="#41DFF2" stop-opacity="0.000000"/>
+			<stop offset="1.000000" stop-color="#41DFF2"/>
+		</linearGradient>
+		<linearGradient id="paint_linear_31_233_1" x1="310.935699" y1="29.999908" x2="218.395203" y2="24.130432" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#2487A6"/>
+			<stop offset="1.000000" stop-color="#409DBB" stop-opacity="0.000000"/>
+		</linearGradient>
+	</defs>
+	<path id="矩形 234" d="M306 0.5L306 0L0.5 0.0043335L0 0.0043335L0.0117188 30L300 30L306 24.5744L306 0.5ZM305.5 0.5L305.5 24.3524L299.807 29.5L0.511536 29.5L0.500183 0.504333L305.5 0.5Z" fill="url(#paint_linear_31_233_1)" fill-opacity="1.000000" fill-rule="evenodd"/>
+	<path id="矩形" d="M305.998 26L301.998 30L305.998 30L305.998 26Z" fill="#1F667E" fill-opacity="1.000000" fill-rule="evenodd"/>
+</svg>

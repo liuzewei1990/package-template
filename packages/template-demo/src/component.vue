@@ -1,5 +1,5 @@
 <template>
-  <work-container absolute min-height="400px">
+  <work-container ui-width="300" ui-height="300" absolute min-height="400px">
     <main-content></main-content>
   </work-container>
 </template>

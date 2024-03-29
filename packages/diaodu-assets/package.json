@@ -1,0 +1,13 @@
+{
+  "name": "@package/diaodu-assets",
+  "version": "0.0.0",
+  "description": "> TODO: description",
+  "author": "liuzewei",
+  "homepage": "",
+  "license": "ISC",
+  "main": "index.js",
+  "componentMeta": {
+    "icon":"",
+    "name": "组件模板Demo"
+  }
+}

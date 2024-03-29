@@ -1,0 +1,38 @@
+<svg width="67.028564" height="108.650146" viewBox="0 0 67.0286 108.65" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<desc>
+			Created with Pixso.
+	</desc>
+	<defs>
+		<linearGradient id="paint_linear_85_313_0" x1="67.028564" y1="108.650246" x2="67.028564" y2="0.000000" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#30281A" stop-opacity="0.458824"/>
+			<stop offset="1.000000" stop-color="#FFC75E"/>
+		</linearGradient>
+		<linearGradient id="paint_linear_85_314_0" x1="66.728195" y1="14.794671" x2="66.728195" y2="0.714111" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#FCFF93"/>
+			<stop offset="1.000000" stop-color="#FFC75E"/>
+		</linearGradient>
+		<linearGradient id="paint_linear_85_315_0" x1="19.900148" y1="21.594719" x2="19.900148" y2="7.514159" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#FCFF93"/>
+			<stop offset="1.000000" stop-color="#FFC75E"/>
+		</linearGradient>
+		
+		<linearGradient id="paint_linear_85_359_0" x1="19.139429" y1="11.796406" x2="19.139429" y2="0.000000" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#FFFFFF"/>
+			<stop offset="1.000000" stop-color="#E8FFF4"/>
+		</linearGradient>
+	</defs>
+	<g opacity="0.700000">
+		<path id="path" d="M66.8034 101.077C66.8647 101.251 66.8956 101.427 66.8964 101.605C66.8964 105.495 51.9936 108.65 33.6056 108.65C15.2175 108.65 0.318237 105.495 0.318237 101.605C0.318909 101.427 0.349915 101.251 0.411255 101.077L0.182495 101.077L0 7.01978L0.135742 7.01978C0.189453 3.13916 15.074 0 33.4229 0C51.7717 0 66.6567 3.1394 66.7139 7.01978L66.8462 7.01978L67.0286 101.077L66.8034 101.077Z" fill="url(#paint_linear_85_313_0)" fill-opacity="0.500000" fill-rule="evenodd"/>
+	</g>
+	<g opacity="0.630000">
+		<path id="ellipse" d="M33.4838 0.714111C51.8441 0.714111 66.7281 3.86621 66.7281 7.75439C66.7281 11.6426 51.8441 14.7947 33.4838 14.7947C15.1235 14.7947 0.239441 11.6426 0.239441 7.75439C0.239441 3.86621 15.1235 0.714111 33.4838 0.714111Z" fill="url(#paint_linear_85_314_0)" fill-opacity="1.000000" fill-rule="evenodd"/>
+	</g>
+	<g opacity="0.200000">
+		<path id="ellipse" d="M33.4838 7.51416C51.8441 7.51416 66.7281 10.6663 66.7281 14.5544C66.7281 18.4426 51.8441 21.5947 33.4838 21.5947C15.1235 21.5947 0.239441 18.4426 0.239441 14.5544C0.239441 10.6663 15.1235 7.51416 33.4838 7.51416Z" fill="url(#paint_linear_85_315_0)" fill-opacity="1.000000" fill-rule="evenodd"/>
+	</g>
+	<g opacity="0.380000">
+		<path id="矢量 27" d="M33.6334 0C48.0778 0.0350342 60.3087 2.021 64.7261 4.77173C56.9407 3.70459 45.9205 4.50195 30.9867 8.47253C22.3928 10.7573 14.8142 11.6118 8.73471 11.7964C3.31042 10.5436 0 8.87341 0 7.03967C0 3.87463 9.86304 1.19727 23.4354 0.311035C26.6851 0.116699 30.1036 0.00891113 33.6334 0Z" fill="url(#paint_linear_85_359_0)" fill-opacity="1.000000" fill-rule="evenodd"/>
+	</g>
+</svg>
+
+
